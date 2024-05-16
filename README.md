@@ -137,11 +137,11 @@ tensorflow 2.8.0 TensorFlow is an open source machine learning framework for eve
 
 ### 3.1. インストール方法
 
-docs/install.md に記載予定
+[docs/install.md](./docs/install.md) に記載
 
 ### 3.2. 使い方
 
-docs/tutorial.mdに記載予定
+[docs/tutorial.md](./docs/tutorial.md)に記載予定
 
 ### 3.3. 問題等
 
